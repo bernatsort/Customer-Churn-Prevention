@@ -28,4 +28,4 @@ Desarrollo del modelo de regresión logística:
 
 Conclusiones y vías abiertas:
 - ¿Qué recomendaciones le daríamos a esta empresa para reducir churn?
-- ¿Cómo os ayuda el modelo calculado a llegar a estas conclusiones?
+- ¿Cómo nos ayuda el modelo calculado a llegar a estas conclusiones?
