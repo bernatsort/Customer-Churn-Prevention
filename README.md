@@ -14,7 +14,7 @@ Análisis exploratorio de los datos:
 - Visualizaciones que ayuden a entender la relación entre los atributos y la variable objetivo is_churned.
 - Resumen de las conclusiones sacadas en este punto.
 
-Análisis de datos mediante el uso de técnicas estadísticas (Correlación, PCA, ANOVA e Información Mútua):
+Análisis de datos mediante el uso de técnicas estadísticas (Correlación, PCA, ANOVA e Información Mutua):
 - Desarrollo teórico de la técnica: ¿Qué es?, ¿Para que sirve? ¿Por qué utilizamos éstas pruebas y no otras?
 - Desarrollo de la técnica sobre el conjunto de datos: análisis y explicación los resultados obtenidos.
 
